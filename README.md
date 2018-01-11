@@ -1,3 +1,27 @@
+## Table of Contents
+
+- [Trade Agreements](#trade-agreements)
+  - [NAFTA Modernization](#nafta-modernization)
+  - [TPP-11/Japan](#tpp-11--japan-fta)
+  - [China](#china-fta)
+  - [Pacific Alliance](#pacific-alliance-fta)
+  - [Mercosur](#mercosur)
+  - [ASEAN](#asean)
+  - [CETA](#ceta)
+- [Food Safety](#food-safety)
+- [Animal Welfare](#animal-welfare)
+- [Domestic Ag Policy](#domestic-ag-policy)
+- [Environment/Sustainability](#environmentsustainability)
+- [Special Initiatives](#special-initiatives)
+  - [Meat Communications Campaign](#meat-communications-campaign)
+  - [Access to Labour](#access-to-labour)
+- Committees
+  - [Beef and Veal](#beef-and-veal-committee)
+  - [Pork](#pork-committee)
+  - [Technical](#technical-committee)
+  - [Prepared Meats](#prepared-meats-committee)
+
+
 ## Trade Agreements
 
 ### NAFTA modernization
