@@ -1,6 +1,8 @@
+---
+layout: nil
+---
 CACHE MANIFEST
-
-CACHE:
+# rev {{ site.time | date_to_xmlschema }}
 assets/css/style.css
 assets/js/scale.fix.js
 assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2
@@ -25,7 +27,8 @@ android-chrome-512x512.png
 android-chrome-192x192.png
 addtohomescreen.js
 addtohomescreen.css
-
+{% for post in site.posts %}{{ post.id }}/
+{% endfor %}
 
 NETWORK:
 *
