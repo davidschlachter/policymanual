@@ -1,5 +1,17 @@
 ## Table of Contents
 
+- [Animal Welfare](#animal-welfare)
+- Committees
+  - [Beef and Veal](#beef-and-veal-committee)
+  - [Pork](#pork-committee)
+  - [Technical](#technical-committee)
+  - [Prepared Meats](#prepared-meats-committee)
+- [Domestic Ag Policy](#domestic-ag-policy)
+- [Environment/Sustainability](#environmentsustainability)
+- [Food Safety](#food-safety)
+- [Special Initiatives](#special-initiatives)
+  - [Meat Communications Campaign](#meat-communications-campaign)
+  - [Access to Labour](#access-to-labour)
 - [Trade Agreements](#trade-agreements)
   - [NAFTA Modernization](#nafta-modernization)
   - [TPP-11/Japan](#tpp-11--japan-fta)
@@ -8,19 +20,186 @@
   - [Mercosur](#mercosur)
   - [ASEAN](#asean)
   - [CETA](#ceta)
-- [Food Safety](#food-safety)
-- [Animal Welfare](#animal-welfare)
-- [Domestic Ag Policy](#domestic-ag-policy)
-- [Environment/Sustainability](#environmentsustainability)
-- [Special Initiatives](#special-initiatives)
-  - [Meat Communications Campaign](#meat-communications-campaign)
-  - [Access to Labour](#access-to-labour)
-- Committees
-  - [Beef and Veal](#beef-and-veal-committee)
-  - [Pork](#pork-committee)
-  - [Technical](#technical-committee)
-  - [Prepared Meats](#prepared-meats-committee)
+- [CMC Mission and Vision](#mission-and-vision)
 
+## Animal Welfare
+
+### NFACC
+
+Dec. 2017 Annual
+
+*CFIA Gazette Part I consultations on proposed amendments to the Health of Animals Regulations regarding humane transportation closed on February 15, 2017. The National Farm Animal Care Council (NFACC) is the national lead for codes of practice development and farm animal care in Canada and is working on updating the transport Code of Practice.*
+
+- That animal welfare is a CMC priority and is not a subject of competitiveness.
+- That the CMC continue to proactively support implementation of codes of practice at the farm and monitoring and audit processes for transport and slaughter.
+
+Dec. 2017 Staff Directive
+
+- That the VP, Market Access and Technical Affairs actively engage to advance packer interests on the NFACC Board.
+
+## Beef and Veal Committee
+
+### Canadian Beta Agonist-Free Program
+
+Dec. 2017 Staff Directive
+
+- That the Canada Beta-Agonist-Free Program be reviewed annually.
+
+### Value Chain Forums
+
+Dec. 2017 Staff Directive
+
+- That the Director of Beef and Veal actively engage in the following to advance packer interests: Canadian Roundtable for Sustainable Beef, Beef Value Chain Roundtable, Canadian Beef Advisor’s Forum (includes National Beef Strategy and Canadian Beef Industry Conference), the Canadian Cattle Identification Agency and the Canadian Beef Grading Agency.
+- That BVC members participate as Directors in the following forums to advance packer interests: Canadian Cattle Identification Agency (CCIA), Canadian Beef Grading Agency (CBGA) and the Canada Beef Checkoff Agency.
+
+### Market Access Funding
+
+Dec. 2017 Staff Directive
+
+- That Government of Canada funding be obtained for industry activities to gain and maintain commercially-viable access to the EU and other markets of interest. 
+
+### Traceability
+
+Dec. 2017 Quarterly
+
+- That the new Traceability regulations promulgated distribute costs fairly throughout the supply chain. 
+
+### BSE Feed Ban Review
+
+Dec. 2017 Annual
+
+- That an Industry-Government review take place in preparation for OIE recognition of Canada as a BSE negligible risk country, with a view to harmonizing the listing of SRMs that must be destroyed to increase Canadian competitiveness viz a viz their U.S. competitors in our integrated market.
+
+### Market Access
+
+Dec. 2017 Quarterly
+
+- China: That access be negotiated for the same product coverage the U.S. achieved (bone-in, chilled, offal) including full systems approval for eligibility of establishments export.
+- U.S.: That meat exports for cooking and other uses destined for lethal treatment should not be subject to microbial testing at the border.
+- GCC: That a commercially-viable approach to the proposed new halal-fed animal attestation be negotiated with halal-certifiers. 
+- Indonesia: That Canada negotiate restored access for SRM-removed MBM. 
+
+
+## Pork Committee
+
+### Canadian Ractopamine-Free Pork Certification Program
+
+Dec. 2017 Staff Directive
+
+- That CMC work closely with the CFIA to ensure smooth implementation of changes by March 31, 2018.
+
+### Trichinella
+
+Dec. 2017 Staff Directive
+
+- That Government of Canada funding be secured to establish a negligible risk Trichinella compartment to increase our competiveness in the EU and other markets.
+
+### Value Chain Forums
+
+Dec. 2017 Staff Directive
+
+- That the VP, Market Access and Technical Affairs actively engage in the Pork Value Chain Roundtable to advance packer interests.
+
+### Container Seals
+
+Dec. 2017 Staff Directive
+
+- That the CFIA modernize container seals as part of e-certification.
+
+### Slaughter Modernization
+
+Dec. 2017 Staff Directive
+
+- That the CMC work with the CFIA to finalize a pilot project as a first step to implement slaughter modernization in all pork plants.
+
+## Technical Committee
+
+### CFIA Modernization
+
+Dec. 2017 Quarterly
+
+- That key pillars of modernization under the Safe Food for Canadians Regulations be implemented concurrently to ensure coherence and cost effectiveness.
+- That a more hands-off approach be taken to labelling modernization.
+- That clear guidance for validation studies and results be developed collaboratively with industry.
+
+### Listeria Policy
+
+Dec. 2017 Semi-annually
+
+- That Canada’s listeria policy continues to take its current approach to retaining equivalence recognition by the United States.  
+
+### Codex Alimentarius
+
+Dec. 2017 Staff Directive
+
+- That revisions to the General Principles of Food Hygiene (HACCP) be sought that advance Canadian packer interests. 
+- That Codex standards be formalized for management of E. Coli STEC (non O157: H7).
+
+### Heathy Eating Strategy
+
+Dec. 2017 Quarterly
+
+- That any changes to front of package labelling be supported by evidence that demonstrates they will contribute to the desired objectives.
+- That proposed marketing to children be modelled after Quebec’s current approach.
+- That revisions to the Canada Food Guide continue to include meat and meat products as a nutritious choice (i.e. as part of a healthy diet).
+
+### Cost Recovery
+
+Dec. 2017 Quarterly
+
+- That competiveness viz a viz the U.S. be a primary consideration in any changes to CFIA fee schedules.
+- That a Government-Industry Advisory Committee that is co-chaired by the CMC be struck to inform all elements of this initiative.
+
+## Prepared Meats Committee
+
+### Alignment
+
+Dec. 2017 Quarterly
+
+- That CMC continue to advocate for alignment of regulatory requirements with major trading partners (i.e., for cost effectiveness).
+
+## Domestic Ag Policy
+
+### AAFC Canadian Ag Partnership (CAP)
+
+Dec. 2017 Quarterly
+
+- That programming continue to support the food industry, food safety and animal health.
+- That the CMC access CAP funding to leverage spending on market access
+
+### National Food Policy
+
+Dec. 2017 Quarterly
+
+- That development of a national food policy includes close consultations and active engagement with the CMC and other food industry stakeholders.
+
+## Environment/Sustainability
+
+### CRSB
+
+Dec. 2017 Quarterly
+
+- That the CMC actively engage in the Canadian Roundtable for Sustainable Beef.
+
+## Food Safety
+
+Dec. 2017 Annual
+
+That meat and meat product food safety is a CMC priority and is not a subject to competitiveness.
+
+## Special Initiatives
+
+### Meat Communications Campaign
+
+Dec. 2017 Annual
+
+- That CMC actively promote the nutritious/nutrient dense value of meat as part of a healthy diet
+
+### Access to Labour
+
+Dec. 2017 Staff Directive
+
+- That the CMC actively engage federally and provincially and with other sectors to create and preserve viable pathways to permanency. 
 
 ## Trade Agreements
 
@@ -99,181 +278,18 @@ Dec. 2017 Quarterly
 - That government funding is required to position industry to take full advantage of the quota amounts negotiated.
 
 
-## Food Safety
+## Mission and Vision
 
-Dec. 2017 Annual
+**Mission:** The Canadian Meat Council advocates for the needs of its members to secure and improve Canada's global meat competitiveness.
 
-That meat and meat product food safety is a CMC priority and is not a subject to competitiveness.
+**Vision:** Canada is trusted as a world leader in the provision of safe and wholesome meat.
 
-## Animal Welfare
+**Operational themes:**
 
-### NFACC
+Member Services: A growing and sustainable member base fueled by value added activities.
 
-Dec. 2017 Annual
+Regulatory Context: Internationally competitive regulatory framework enabling and encouraging the Canadian meat industry to continue to achieve the highest levels of food safety.
 
-*CFIA Gazette Part I consultations on proposed amendments to the Health of Animals Regulations regarding humane transportation closed on February 15, 2017. The National Farm Animal Car Council (NFACC) is the national lead for codes of practice development and farm animal care in Canada and is working on updating the transport Code of Practice.*
+International Trade: Competitive access for Canadian meat within Canada and to every market of export interest in the world. 
 
-- That animal welfare is a CMC priority and is not a subject of competitiveness.
-- That the CMC continue to proactively support implementation of codes of practice and monitoring and audit processes for transport and slaughter.
-
-Dec. 2017 Staff Directive
-
-- That the VP, Market Access and Technical Affairs actively engage to advance packer interests on the NFACC Board.
-
-## Domestic Ag Policy
-
-### AAFC Canadian Ag Partnership (CAP)
-
-Dec. 2017 Quarterly
-
-- That programming continue to support the food industry, food safety and animal health.
-- That the CMC access CAP funding to leverage spending on market access
-
-### National Food Policy
-
-Dec. 2017 Quarterly
-
-- That development of a national food policy includes close consultations and active engagement with the CMC and other food industry stakeholders.
-
-## Environment/Sustainability
-
-### CRSB
-
-Dec. 2017 Quarterly
-
-- That the CMC actively engage in the Canadian Roundtable for Sustainable Beef.
-
-## Special Initiatives
-
-### Meat Communications Campaign
-
-Dec. 2017 Annual
-
-- That CMC actively promote the nutritious/nutrient dense value of meat as part of a healthy diet
-
-### Access to Labour
-
-Dec. 2017 Staff Directive
-
-- That the CMC actively engage federally and provincially and with other sectors to create and preserve viable pathways to permanency. 
-
-## Beef and Veal Committee
-
-### Canadian Beta Agonist-Free Program
-
-Dec. 2017 Staff Directive
-
-- That the Canada Beta-Agonist-Free Program be reviewed annually.
-
-### Value Chain Forums
-
-Dec. 2017 Staff Directive
-
-- That the Director of Beef and Veal actively engage in the following to advance packer interests: Canadian Roundtable for Sustainable Beef, Beef Value Chain Roundtable, Canadian Beef Advisor’s Forum (includes National Beef Strategy and Canadian Beef Industry Conference).
-- That BVC members participate as Directors in the following forums to advance packer interests: Canadian Cattle Identification Agency (CCIA), Canadian Beef Grading Agency (CBGA) and the Canada Beef Checkoff Agency.
-
-### Market Access Funding
-
-Dec. 2017 Staff Directive
-
-- That Government of Canada funding be obtained for industry activities to gain and maintain commercially-viable access to the EU and other markets of interest. 
-
-### Traceability
-
-Dec. 2017 Quarterly
-
-- That the new Traceability regulations promulgated do not increase the regulatory burden for packers and instead focus on the supply chain. 
-
-### BSE Feed Ban Review
-
-Dec. 2017 Annual
-
-- That an Industry-Government review take place in preparation for OIE recognition of Canada as a BSE negligible risk country, with a view to harmonizing the listing of SRMs that must be destroyed to increase Canadian competitiveness viz a viz their U.S. competitors in our integrated market.
-
-### Market Access
-
-Dec. 2017 Quarterly
-
-- China: That access be negotiated for the same product coverage the U.S. achieved (bone-in, chilled, offal) including systems approval for eligibility of establishments export.
-- U.S.: That meat exports for cooking and other uses destined for lethal treatment should not be subject to microbial testing.
-- GCC: That a commercially-viable approach to the proposed new halal-fed animal attestation be negotiated with halal-certifiers. 
-- Indonesia: That Canada negotiate restored access for SRM-removed MBM. 
-
-
-## Pork Committee
-
-### Canadian Ractopamine-Free Pork Certification Program
-
-Dec. 2017 Staff Directive
-
-- That CMC work closely with the CFIA to ensure smooth implementation of changes by January 31, 2028
-
-### Trichinella
-
-Dec. 2017 Staff Directive
-
-- That Government of Canada Funding be obtained to establish a negligible risk Trichinella compartment to increase competiveness for our exports to the EU and other markets.
-
-### Value Chain Forums
-
-Dec. 2017 Staff Directive
-
-- That the VP, Market Access and Technical Affairs actively engage in the Pork Value Chain Roundtable to advance packer interests.
-
-### Container Seals
-
-Dec. 2017 Staff Directive
-
-- That the CFIA modernize container seals as part of e-certification.
-
-### Slaughter Modernization
-
-Dec. 2017 Staff Directive
-
-- That the CMC work with the CFIA to finalize a pilot project as a first step to inform slaughter modernization in all pork plants.
-
-## Technical Committee
-
-### CFIA Modernization
-
-Dec. 2017 Quarterly
-
-- That key pillars of modernization under the Safe Food for Canadians Regulation be implemented concurrently to ensure coherence and cost effectiveness.
-- That a more hands-off approach be taken to labelling modernization.
-- That clear guidance for validation studies and results be developed collaboratively with industry.
-
-### Listeria Policy
-
-Dec. 2017 Semi-annually
-
-- That Canada’s listeria policy continue to take its current approach to retaining equivalence recognition by the United States.  
-
-### Codex Alimentarius
-
-Dec. 2017 Staff Directive
-
-- That revisions to the General Principles of Food Hygiene (HACCP) be sought that advance Canadian packer interests. 
-- That Codex standards be formalized for management of E. Coli STEC (non O157: H7).
-
-### Heathy Eating Strategy
-
-Dec. 2017 Quarterly
-
-- That any changes to front of package labelling be supported by evidence that demonstrates they will contribute to the desired objectives.
-- That proposed marketing to children be modelled after Quebec’s current approach.
-- That revisions to the Canada Food Guide continue to include meat and meat products as a nutritious choice (i.e. as part of a healthy diet).
-
-### Cost Recovery
-
-Dec. 2017 Quarterly
-
-- That competiveness viz a viz the U.S. be a primary consideration in any changes to the current fee schedules.
-- That a Government-Industry Advisory Committee that is co-chaired by the CMC be struck to inform all elements of this initiative.
-
-## Prepared Meats Committee
-
-### Alignment
-
-Dec. 2017 Quarterly
-
-- That CMC continue to advocate for alignment of regulatory requirements with major trading partners (i.e., for cost effectiveness).
+Public Engagement: CMC recognized as a trusted authority on all meat-related issues. 
