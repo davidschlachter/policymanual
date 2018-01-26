@@ -4,6 +4,7 @@ layout: nil
 CACHE MANIFEST
 # rev {{ site.time | date_to_xmlschema }}
 assets/css/style.css
+assets/css/print.css
 assets/js/scale.fix.js
 assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2
 assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2
@@ -18,6 +19,7 @@ imgs/icon.svg
 safari-pinned-tab.svg
 mstile-150x150.png
 manifest.json
+jquery-3.3.1.min.js
 favicon.ico
 favicon-32x32.png
 favicon-16x16.png
