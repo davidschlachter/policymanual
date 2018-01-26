@@ -1,0 +1,57 @@
+body { 
+	background: white; 
+  font-family: Calibri;
+  color: black;
+  font-size: 12pt;
+  margin: 0;
+  padding: 0;
+  column-count: 2;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+}
+
+
+h1 {
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.h2group {
+  border: 1px solid black;
+  page-break-inside:avoid;
+  margin-bottom: 3em;
+}
+
+.h2group h2 {
+  color: white;
+  background-color: black;
+  text-transform: uppercase;
+  padding: 3pt;
+  text-align: center;
+  display: block;
+  /*page-break-before: always;*/
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.h2group p {
+  padding: 3pt;
+}
+
+.h2group ul {
+}
+
+.h2group h3 {
+  font-size: 12pt;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 3pt;
+  text-align: center;
+  margin-top: 0;
+}
+
+.h3group {
+  margin-bottom: 2em;
+}
