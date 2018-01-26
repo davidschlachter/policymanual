@@ -34,6 +34,15 @@
         $( "h3" ).each(function( index ) {
           $( this ).nextUntil( "h3" ).addBack().wrapAll( "<div class='h3group'></div>" );
         });
+        $( "h2" ).each(function( index ) {
+          $( this ).next( ".h3group" ).addBack().wrapAll( "<div class='h23group'></div>" );
+        });
+        $( "h3" ).each(function( index ) {
+          if ($( this ).parent().parent().is( ".h23group" )) {
+            $( this ).unwrap();
+          }
+        });
+        $('.h2group').not(':has(h3)').wrapInner("<div class='h23group'></div>");
       });
     </script>
   </head>

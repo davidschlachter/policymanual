@@ -17,9 +17,7 @@ h1 {
 }
 
 .h2group {
-  border: 1px solid black;
-  page-break-inside:avoid;
-  margin-bottom: 3em;
+  padding-bottom: 3em;
 }
 
 .h2group h2 {
@@ -46,12 +44,21 @@ h1 {
 .h2group h3 {
   font-size: 12pt;
   font-weight: bold;
-  border: 1px solid black;
+  border-bottom: 1px solid black;
   padding: 3pt;
   text-align: center;
   margin-top: 0;
 }
 
+.h3group, .h23group {
+  page-break-inside: avoid;
+  border: 1px solid black;
+}
+
 .h3group {
-  margin-bottom: 2em;
+  padding-bottom: 2em;
+}
+
+#table-of-contents {
+  page-break-inside:avoid;
 }
