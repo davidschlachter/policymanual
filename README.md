@@ -1,3 +1,5 @@
+Winter 2018, Issue 1
+
 ## Table of Contents
 
 - [Animal Welfare](#animal-welfare)
