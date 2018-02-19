@@ -51,9 +51,9 @@
       <header>
         <img id="logo" src="cmc-logo.png" alt="Canadian Meat Council logo"/>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p id="sitedescriptiontext">{{ site.description | default: site.github.project_tagline }}</p>
 
-          <p class="view"><a href="mailto:{{ site.contactaddress }}">Contact us</a></p>
+          <p id="contactparagraph" class="view"><a href="mailto:{{ site.contactaddress }}">Contact us</a></p>
 
       </header>
       <section>
@@ -83,6 +83,24 @@
           document.body.scrollTop = 0; // For Safari
           document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
       }
+      
+      // Translate the page title and such if we're on the French page
+      $( document ).ready(function() {
+        if (window.location.pathname.indexOf('français') > -1) {
+          $("header h1").html("Manuel des politiques du Conseil des viandes du Canada");
+          $("#sitedescriptiontext").text(function (i, old) {
+            return old
+              .replace('Winter', 'Hiver')
+              .replace('Spring', 'Printemps')
+              .replace('Summer', 'Été')
+              .replace('Fall', 'Automne')
+              .replace('Issue', 'Édition');
+          });
+          $("#contactparagraph a").html("Contactez-nous");
+        }
+        
+      });
+      
     </script>
     <script>
     	addToHomescreen({
