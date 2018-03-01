@@ -1,13 +1,13 @@
-Le présent document décrit les politiques et les directives aux membres de son personnel adoptées par le Conseil d'administration du Conseil des viandes du Canada (CVC). Il constitue une référence pour faciliter la communication cohérente des membres au sein et de l'extérieur du CVC. La date qui suit le titre du numéro indique la date à laquelle la politique ou la directive au personnel a été approuvée par le Conseil d'administration. La colonne de droite indique le moment auquel la décision politique doit être examinée par le Conseil d'administration à titre de point à l'ordre du jour de sa réunion ordinaire qui correspond à cette fréquence. Les directives au personnel sont habituellement examinées chaque année jusqu'à ce qu'elles soient complétées. Le présent document est également affiché en ligne, dans la portion réservée aux membres du site Web du CVC, à l'adresse www.cmc-cvc.com. Des exemplaires imprimés sont produits trimestriellement et postés aux membres du Conseil d'administration et, sur demande, mis à la disposition des membres du CVC et des membres associés.
+Le présent document décrit les politiques et les directives aux membres de son personnel adoptées par le Conseil d'administration du Conseil des viandes du Canada (CVC). Il constitue une référence pour faciliter la communication cohérente des membres au sein et à l'extérieur du CVC. La date qui suit le titre du numéro indique la date à laquelle la politique ou la directive au personnel a été approuvée par le Conseil d'administration. La colonne de droite indique le moment auquel la décision politique doit être examinée par le Conseil d'administration à titre de point à l'ordre du jour de sa réunion ordinaire qui correspond à cette fréquence. Les directives au personnel sont habituellement examinées chaque année jusqu'à ce qu'elles soient complétées. Le présent document est également affiché en ligne, dans la portion réservée aux membres du site Web du CVC, à l'adresse www.cmc-cvc.com. Des exemplaires imprimés sont produits trimestriellement et postés aux membres du Conseil d'administration et, sur demande, mis à la disposition des membres du CVC et des membres associés.
   
 ## Table des matières
 
 - [Bien-être animal](#bien-être-animal)
 - Comités
-  - [Comité sur le bœuf et le veau](#comité-sur-le-bœuf-et-le-veau)
-  - [Comité sur le porc](#comité-sur-le-porc)
+  - [Comité du bœuf et du veau](#comité-du-bœuf-et-du-veau)
+  - [Comité du porc](#comité-du-porc)
   - [Comité technique](#comité-technique)
-  - [Comité des viandes préparées](#comité-des-viandes-préparées)
+  - [Comité de la viande transformée](#comité-de-la-viande-transformée)
 - [Politique agricole intérieure](#politique-agricole-intérieure)
 - [Environnement et durabilité](#environnement-et-durabilité)
 - [Salubrité des aliments](#salubrité-des-aliments)
@@ -40,7 +40,7 @@ Directive au personnel, déc. 2017
 
 - Que le vice-président, Accès au marché et affaires techniques s'engage activement dans l'avancement des intérêts des conditionneurs au sein du Conseil d'administration du CNSAE.
 
-## Comité sur le bœuf et le veau
+## Comité du bœuf et du  veau
 
 ### Programme canadien de certification des bovins exempts de bêta agonistes
 
@@ -87,7 +87,7 @@ Déc. 2017 trimestrielle
 
 
 
-## Comité sur le porc
+## Comité du porc
 
 ### Programme canadien de certification des porcs exempts de ractopamine
 
@@ -166,7 +166,7 @@ Déc. 2017 trimestrielle
 - Qu'un comité consultatif gouvernement-industrie coprésidé par le CVC soit mis sur pied pour informer tous les éléments de cette initiative.
 
 
-## Comité des viandes préparées
+## Comité de la viande transformée
 
 ### Harmonisation
 
