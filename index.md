@@ -151,15 +151,7 @@ Dec. 2017 Quarterly
 Dec. 2017 Quarterly
 
 - That competiveness viz a viz the U.S. be a primary consideration in any changes to CFIA fee schedules.
-- That a Government-Industry Advisory Committee that is co-chaired by the CMC be struck to inform all elements of this initiative.
-
-## Prepared Meats Committee
-
-### Alignment
-
-Dec. 2017 Quarterly
-
-- That CMC continue to advocate for alignment of regulatory requirements with major trading partners (i.e., for cost effectiveness).
+- That recommendations from the Government-Industry Advisory Committee that is co-chaired by the CMC be considered by CFIA and CFIA be part of the conversation.
 
 ## Domestic Ag Policy
 
@@ -221,13 +213,14 @@ Dec. 2017 Quarterly
 - That access to the U.S. for SRM-removed MBM needs to be restored as it presents even lower risks that imports of Cattle.
 - That the Berry Amendment and the National School Lunch Act’s “Buy American” provisions should be eliminated, allowing Canada to supply U.S. government contracts.
 
-### TPP-11 / Japan FTA
+### CPTPP / Japan FTA
 
 Dec. 2017 Quarterly
 
 *Formally known as: Comprehensive and progressive Trans-Pacific Partnership CPTTP.   Japan, Canada, Malaysia, Vietnam, Singapore, Brunei, Australia, New Zealand, Mexico, Chile and Peru. Agreement on core elements reached in Dec. 2017 in Vietnam on margins of APEC Leaders meeting. Market access provisions remained intact. No clear next steps outlined.*
 
-- That Canada needs to lead the earliest-possible completion, ratification and implementation of the agreement.
+- Agreement signed on March 2018.
+- That Canada needs to lead the earliest-possible implementation of the agreement.
 - Our $1.2 billion of sales to Japan represent 20% of all meat export values ($6 billion).  2.
 - That our $1.2 billion of sales to Japan (representing 20% of all meat export values (i.e., $6 billion) is jeopardized by Japan’s FTAs with other trading partners (Australia, Mexico, Chile and soon the EU).
 - That not preserving the market access provisions further jeopardizes $500 million of additional annual meat exports to Japan ($300 million pork - $200 million beef).
